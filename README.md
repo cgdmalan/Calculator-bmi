@@ -1,6 +1,6 @@
 
 
-The goal of this tutorial is to learn more about Optionals, understanding of the MVC design pattern and to introduce the concept of Classes.
+The goal of this project is to learn more about Optionals, understanding of the MVC design pattern and to introduce the concept of Classes.
 
 
 - How to create multi-screen apps with animated navigation.
